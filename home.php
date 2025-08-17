@@ -23,11 +23,11 @@
             </div>
             <div style="display: flex; align-items: center; gap: 20px;">
                 <span style="display: flex; align-items: center; gap: 5px;">
-                    <span style="font-size: 18px;">&#128274;</span> LOG IN
+                    <span style="font-size: 18px;">&#128274;</span> <a href="./login.php">LOGIN</a>
                 </span>
                 <span style="border-left: 1px solid #d0e06a; height: 20px; margin: 0 10px;"></span>
                 <span style="display: flex; align-items: center; gap: 5px;">
-                    <span style="font-size: 18px;">&#128100;</span> REGISTRATION
+                    <span style="font-size: 18px;">&#128100;</span> <a href="./register.php">REGISTRATION</a>
                 </span>
             </div>
         </div>
