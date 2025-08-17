@@ -246,6 +246,62 @@
                 </div>
             </form>
         </div>
+
+        <!-- Account Information Section -->
+        <div class="reg-form-box">
+            <div class="reg-form-title">Account Information</div>
+            <form>
+                <div class="reg-grid">
+                    <div>
+                        <div class="reg-field">
+                            <div class="reg-label">Email Address <span class="req">*</span></div>
+                            <div class="reg-input-group">
+                                <span class="icon">&#9993;</span>
+                                <input class="reg-input" type="email" placeholder="Email address" required>
+                            </div>
+                        </div>
+                        <div class="reg-field">
+                            <div class="reg-label">Confirm Email Address <span class="req">*</span></div>
+                            <div class="reg-input-group">
+                                <span class="icon">&#9993;</span>
+                                <input class="reg-input" type="email" placeholder="Confirm email address" required>
+                            </div>
+                        </div>
+                        <div class="reg-field">
+                            <div class="reg-label">Candidate Phone Number <span class="req">*</span></div>
+                            <div class="reg-input-group">
+                                <span class="icon">&#128222;</span>
+                                <input class="reg-input" type="tel" placeholder="Phone Number" required>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="reg-field">
+                            <div class="reg-label">Guardian Phone Number <span class="req">*</span></div>
+                            <div class="reg-input-group">
+                                <span class="icon">&#128222;</span>
+                                <input class="reg-input" type="tel" placeholder="Phone Number" required>
+                            </div>
+                        </div>
+                        <div class="reg-field">
+                            <div class="reg-label">Password <span class="req">*</span></div>
+                            <div class="reg-input-group">
+                                <span class="icon">&#128274;</span>
+                                <input class="reg-input" type="password" placeholder="Password" required>
+                            </div>
+                        </div>
+                        <div class="reg-field">
+                            <div class="reg-label">Confirm Password <span class="req">*</span></div>
+                            <div class="reg-input-group">
+                                <span class="icon">&#128274;</span>
+                                <input class="reg-input" type="password" placeholder="Confirm Password" required>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+        </div>
     </div>
 </body>
 
