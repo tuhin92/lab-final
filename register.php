@@ -299,6 +299,9 @@
                         </div>
                     </div>
                 </div>
+                <div style="display: flex; justify-content: flex-end; margin-top: 16px;">
+                    <button type="submit" style="background: #a2bb1b; color: #fff; font-size: 20px; font-weight: bold; border: none; border-radius: 4px; padding: 12px 40px; cursor: pointer;">Register</button>
+                </div>
             </form>
         </div>
         </div>
